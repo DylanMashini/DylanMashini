@@ -1,4 +1,4 @@
-# Hello, I'm Dylan! ![Profile views](https://gpvc.arturio.dev/DylanMashini)
+# Hello, I'm Dylan! 
 ![skills](https://skillicons.dev/icons?theme=dark&i=vim,ts,svelte,rust,wasm,python,react,figma,mongodb,nextjs,cpp,c)
 
 Check out my portfolio website to see some of my projects, or to contact me. 
