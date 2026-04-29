@@ -1,5 +1,5 @@
 # Hello, I'm Dylan! 
-![skills](https://skillicons.dev/icons?theme=dark&i=vim,ts,svelte,rust,wasm,python,react,figma,mongodb,nextjs,cpp,c)
+![skills](https://skillicons.dev/icons?theme=dark&i=vim,ts,svelte,rust,wasm,python,react,figma,postgres,mongodb,nextjs,cpp,c)
 
 
 Here's some of my personal projects:
