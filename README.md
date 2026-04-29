@@ -4,6 +4,7 @@
 
 Here's some of my personal projects:
 - [A JS interpreter written in Rust](https://github.com/DylanMashini/js-interpreter)
+- [A Nueral Network implementation written in Rust](https://github.com/DylanMashini/genius-hour)
 - [A 3D Bird Simulation](https://github.com/DylanMashini/boids)
-- [A Demo Terraform project](https://github.com/DylanMashini/terraform-demo)
-- [A Nueral Network implementation written in rust](https://github.com/DylanMashini/genius-hour)
+- [A Demo Terraform Project](https://github.com/DylanMashini/terraform-demo)
+- [A Python demonstration of evolutional nueral nets](https://github.com/DylanMashini/Neat-Car-Game)
